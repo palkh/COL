@@ -1,0 +1,79 @@
+
+        COMMUNIST OPEN LICENSE
+        Version 1.0, August 2024
+
+Copyright (C) palkh <https://github.com/palkh>
+Everyone is allowed, and encouraged to use and distribute this license, as long as they do it in the spirit of the revolutionary communist ideals.
+
+        PREAMBLE
+
+The COL (Communit Open License) is an open, copyleft, and anti-capitalist license.
+It is designed to protect software, or any kind of content covered by similar copyright law.
+
+The nature of the capitalist society we live in (as of today, in 2024), tends to subvert any work to its dominant, bourgeois, ideology.
+Copyright, and intellectual property in general is one of its tool :
+Licenses on replicable content are the latest form of appropriation by the ruling class of what should be a common asset, and contribute  to the developpement of mankind as a whole.
+In the beggining of Open-Source software developpemnt, work produced by the free collaboration of volunteers trying to better the world by writting code was licensed under permissive licenses such as the MIT or the BSD, but soon, the parasitic bourgeois saw (yet another) an opportunity to steal some 'surplus value' from other people's work.
+Against this constant menace of expropriation of the work of the people by corporations, or other counter-revolutionary entities, leaders in the Free Sftware Movement created the (very progressive) copyleft licenses such as the GPL2 or GPL3.
+Unfortunately, despite the efforts of the brilliant members of the FOSS community, sofware under such licenses can and will be used by the ruling class to try and prevent the people's Revolution from happening, and to maintain the capitalist order of suffering and inequalities.
+By contrast, the Communist Open License has the mission to protect OUR software from being used in any way that might go against the interests of the working class, and the revolutionary parties, trying to free it from the chains of Capital.
+
+More clearly, the goal of this license if both to protect the freedom of the developpers and users, in the spirit of the FOSS movement, and to ensure the program will serve the Communists ideals of Equality, Cooperation and Democracy :
+ - We envision the FOSS community as a way to acheive some sort of communism though sharing of the Means of Production, following the marxist lead of "From each according to their means to each according to their needs".
+ - In a more and more Computerized and Internet-pedendent world, software is one of the most powerful tools for ressources production, strategic operations and Information distribution, and should be put to use by Revolutinaries around the World.
+
+We acknownledge that in a context of intense class war, having legal protections in a system where the entire judicial institution is designed for the interest of the bourgeois capitalit is not particularly useful, and that thus the license might be of little to no use for the comrades fighting with lines of code against the counter-revolution.
+Despite this, this work was written as a tools for Revolutinaries, but also as a statement, against thoses who try to use FOSS software for their own capitalist interests.
+
+        TERMS AND CONDITIONS
+
+0 - Definitions
+
+"The COL", "This document" or "This License" refers to the first version of the Communist Open License, specified in This document.
+
+"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as hardware blueprints, 3D files or some text-like documents.
+
+"The Program", "The content" or "The work" refers to any work, subject to Copyright, that is licensed under the COL.
+
+"Licensees" refers to the person or legal entitie who owns the right to this work.
+
+To "modify","improve" or "change" this work means to adapt, by copying some part or altering some of its content this work in a way that requires under copyright the aproval of the licensees. The modified work will be called "modified version" or "altered version".
+
+A work is "covered by" or "subject to" the COL if its an altered version or the untouched content.
+
+To "use" a work means interacting with in the purpose of using it in its intended use. For a software program if would mean running it, and not eploiting vulnerability or trying to reverse-engineer it.
+
+To "exploit" a work is distributing, for profit or not, some or all of the functionalities of the work while not allowing its user to make copies of it. This definitions excludes any form of public distribution of copies, or open platform allowing public access to the work.
+
+To "distribute" a work means sharing it in a way that enable other user to make copies of it without any restrictions, financial, or of any order.
+
+1 - Textual Source
+
+The "Textual Source", or "Source code" of a work is its preferred form for understanding how it works and thus making modifications to it. Such sources can take many form :
+ - In the case of a computer program written in the C language, the "Textual Source" obviously means the code as it was written by its author?
+ - In the case of hadware file, or complex object, the "Source Code" can be a binary object made to be opened by a specialzed tool for editing purposes.
+
+This "Textual Code" is often written in a "Stantardized Interface", a standard way of editing and writting comparable works. In the case of software this "Standardized Interface" is the programming language in which it was written.
+
+A "Library" is a standardized component included and used by another work while not formally being a part of this work.
+It can be either :
+ - A component that allows another work to function without being included in it.
+ - A component that enables another work to access features it uses as interface an interface for communication (program-user or program-program).
+
+The "Textual Source" needs to be at least the minimum possible information necessary to recreate the work to its full functionality.
+
+2. Usage permissions
+
+This work can be used freely and without any restrictions in the full extent of its features as long as its usage contributes to the International Communist Revolution, or more generally to the progression of class warfare againt the capitalist bourgeoisie.
+
+The usages obeying to this restrictions must correspond to one of the situations listed below :
+ - This work is used for the strategic interests of the working class (promoting class consciousness, battling conservative bourgeois rethoric, helping the forces of Revolutionaries in a tactical context,...)
+ - This work is used for the good of all of mankind, without class, gender or race distinctions (curing cancer)
+ - Specifially, in the context of scientific research, the discoveries and all the scientific information produced directly or indirecly by the use of this work must be made public, and its distrbution must be done according to the Communist ideals promoted by this license.
+ - This work can be used for profit, but only if the profit it generates is used for the global interests of the working-class, and not for the sole purpose of wealth accumulation.
+ - This work can also be used to create profit by Revolutinaries if such profit is required to sustain the vitals function of the Revolutionaries or Revolutionary Party (i.e eat or have a place to live).
+
+3. Distribution permissions
+
+
