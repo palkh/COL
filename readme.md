@@ -1,6 +1,6 @@
 # Communist Open License
 
-This license is a Fork of the GNU General Public License, version 3, changed to reflect the ideals of Revolutionary Communism. It is a copyleft license, which means that derivative works must be distributed under the same license terms. The main difference between the COL and the GPL is that the COL is designed to protect the software from being used for counter-revolutionary purposes.
+This license is written to reflect the ideals of Revolutionary Communism. It is a copyleft license, which means that derivative works must be distributed under the same license terms. The COL is designed to protect the software from being used for counter-revolutionary purposes.
 
 ## Overview
 
