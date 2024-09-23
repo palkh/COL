@@ -1,131 +1,143 @@
 
-        COMMUNIST OPEN LICENSE
-        Version 1.0, August 2024
+                COMMUNIST OPEN LICENSE
+                Version 1.0, August 2024
 
-Copyright (C) palkh <https://github.com/palkh>
-Everyone is allowed, and encouraged to use and distribute this license, as long as they do it in the spirit of the revolutionary communist ideals.
+Copyright (C) palkh \<https://github.com/palkh\>  
+Everyone is allowed and encouraged to use and distribute this license, as long as they do it in the spirit of revolutionary communist ideals.
 
-        PREAMBLE
+PREAMBLE
 
-The COL (Communit Open License) is an open, copyleft, and anti-capitalist license.
+The COL (Communist Open License) is an open, copyleft, and anti-capitalist license.  
 It is designed to protect software, or any kind of content covered by similar copyright law.
 
-The nature of the capitalist society we live in (as of today, in 2024), tends to subvert any work to its dominant, bourgeois, ideology.
-Copyright, and intellectual property in general is one of its tool :
-Licenses on replicable content are the latest form of appropriation by the ruling class of what should be a common asset, and contribute  to the developpement of mankind as a whole.
-In the beggining of Open-Source software developpemnt, work produced by the free collaboration of volunteers trying to better the world by writting code was licensed under permissive licenses such as the MIT or the BSD, but soon, the parasitic bourgeois saw (yet another) an opportunity to steal some 'surplus value' from other people's work.
-Against this constant menace of expropriation of the work of the people by corporations, or other counter-revolutionary entities, leaders in the Free Sftware Movement created the (very progressive) copyleft licenses such as the GPL2 or GPL3.
-Unfortunately, despite the efforts of the brilliant members of the FOSS community, sofware under such licenses can and will be used by the ruling class to try and prevent the people's Revolution from happening, and to maintain the capitalist order of suffering and inequalities.
-By contrast, the Communist Open License has the mission to protect OUR software from being used in any way that might go against the interests of the working class, and the revolutionary parties, trying to free it from the chains of Capital.
+The nature of the capitalist society we live in (as of today, in 2024) tends to subvert any work to its dominant bourgeois ideology.  
+Copyright, and intellectual property in general, is one of its tools:  
+Licenses on replicable content are the latest form of appropriation by the ruling class of what should be a common asset, contributing to the development of mankind as a whole.
 
-More clearly, the goal of this license if both to protect the freedom of the developpers and users, in the spirit of the FOSS movement, and to ensure the program will serve the Communists ideals of Equality, Cooperation and Democracy :
- - We envision the FOSS community as a way to acheive some sort of communism though sharing of the Means of Production, following the marxist lead of "From each according to their means to each according to their needs".
- - In a more and more Computerized and Internet-pedendent world, software is one of the most powerful tools for ressources production, strategic operations and Information distribution, and should be put to use by Revolutinaries around the World.
+In the beginning of open-source software development, work produced by the free collaboration of volunteers trying to better the world by writing code was licensed under permissive licenses such as the MIT or the BSD. But soon, the parasitic bourgeois saw yet another opportunity to steal some 'surplus value' from other people's work.
 
-We acknownledge that in a context of intense class war, having legal protections in a system where the entire judicial institution is designed for the interest of the bourgeois capitalit is not particularly useful, and that thus the license might be of little to no use for the comrades fighting with lines of code against the counter-revolution.
-Despite this, this work was written as a tools for Revolutinaries, but also as a statement, against thoses who try to use FOSS software for their own capitalist interests.
+Against this constant menace of expropriation of the work of the people by corporations or other counter-revolutionary entities, leaders in the Free Software Movement created the (very progressive) copyleft licenses such as the GPLv2 or GPLv3.  
+Unfortunately, despite the efforts of the brilliant members of the FOSS community, software under such licenses can and will be used by the ruling class to try and prevent the people's revolution from happening, and to maintain the capitalist order of suffering and inequalities.
 
-        TERMS AND CONDITIONS
+By contrast, the Communist Open License has the mission to protect **OUR** software from being used in any way that might go against the interests of the working class and the revolutionary parties trying to free it from the chains of Capital.
 
-0 - Definitions
+More clearly, the goal of this license is both to protect the freedom of the developers and users, in the spirit of the FOSS movement, and to ensure the program will serve the communist ideals of equality, cooperation, and democracy:
 
-"The COL", "This document" or "This License" refers to the first version of the Communist Open License, specified in This document.
+- We envision the FOSS community as a way to achieve some sort of communism through sharing of the Means of Production, following the Marxist lead of "From each according to their ability, to each according to their needs."
+- In a more and more computerized and Internet-dependent world, software is one of the most powerful tools for resource production, strategic operations, and information distribution, and should be put to use by revolutionaries around the world.
 
-"Copyright" also means copyright-like laws that apply to other kinds of
-works, such as hardware blueprints, 3D files or some text-like documents.
+We acknowledge that in a context of intense class war, having legal protections in a system where the entire judicial institution is designed for the interest of the bourgeois capitalist is not particularly useful, and thus the license might be of little to no use for the comrades fighting with lines of code against the counter-revolution.  
+Despite this, this work was written as a tool for revolutionaries, but also as a statement against those who try to use FOSS software for their own capitalist interests.
 
-"The Program", "The content" or "The work" refers to any work, subject to Copyright, that is licensed under the COL.
+TERMS AND CONDITIONS
 
-"Licensees" refers to the person or legal entitie who owns the right to this work.
+0. Definitions
 
-To "modify","improve" or "change" this work means to adapt, by copying some part or altering some of its content this work in a way that requires under copyright the aproval of the licensees. The modified work will be called "modified version" or "altered version".
+"The COL", "This document", or "This License" refers to the first version of the Communist Open License, specified in this document.
 
-A work is "covered by" or "subject to" the COL if its an altered version or the untouched content.
+"Copyright" also means copyright-like laws that apply to other kinds of works, such as hardware blueprints, 3D files, or some text-like documents.
 
-To "use" a work means interacting with in the purpose of using it in its intended use. For a software program if would mean running it, and not eploiting vulnerability or trying to reverse-engineer it.
+"The Program", "The content", or "The work" refers to any work, subject to copyright, that is licensed under the COL.
 
-To "exploit" a work is distributing, for profit or not, some or all of the functionalities of the work while not allowing its user to make copies of it. This definitions excludes any form of public distribution of copies, or open platform allowing public access to the work.
+"Licensees" refers to the person or legal entities who own the rights to this work.
 
-To "distribute" a work means sharing it in a way that enable other user to make copies of it without any restrictions, financial, or of any order.
+To "modify", "improve", or "change" this work means to adapt, by copying some part or altering some of its content, in a way that requires under copyright the approval of the licensees. The modified work will be called "modified version" or "altered version".
 
-1 - Textual Source
+A work is "covered by" or "subject to" the COL if it's an altered version or the untouched content.
 
-The "Textual Source", or "Source code" of a work is its preferred form for understanding how it works and thus making modifications to it. Such sources can take many form :
- - In the case of a computer program written in the C language, the "Textual Source" obviously means the code as it was written by its author?
- - In the case of hadware file, or complex object, the "Source Code" can be a binary object made to be opened by a specialzed tool for editing purposes.
+To "use" a work means interacting with it for the purpose of using it in its intended way. For a software program, it would mean running it, not exploiting vulnerabilities or trying to reverse-engineer it.
 
-This "Textual Code" is often written in a "Stantardized Interface", a standard way of editing and writting comparable works. In the case of software this "Standardized Interface" is the programming language in which it was written.
+To "exploit" a work is distributing, for profit or not, some or all of the functionalities of the work while not allowing its user to make copies of it. This definition excludes any form of public distribution of copies or open platforms allowing public access to the work.
 
-A "Library" is a standardized component included and used by another work while not formally being a part of this work.
-It can be either :
- - A component that allows another work to function without being included in it.
- - A component that enables another work to access features it uses as interface an interface for communication (program-user or program-program).
+To "distribute" a work means sharing it in a way that enables other users to make copies of it without any restrictions, financial or otherwise.
+
+"Revolutionaries", "the revolutionary party", or "progressive forces" are defined here as actors actively trying to promote the communist ideals of freedom, democracy, and equality, and pushing forward the interests of the working class. Such actors can be individuals, without any discrimination of social origin, who try to free the international proletariat from its chains and thus drive human progress.
+
+"Capitalist entities", "capitalists", or "counter-revolutionaries" are the forces opposing the freeing of the people by the revolutionary party. They can either be representatives of the bourgeois state trying to maintain the status quo, companies trying to maximize profit for the ruling class, or even conservative elements wanting to destabilize society.
+
+1. Textual Source
+
+The "Textual Source", or "Source code" of a work, is its preferred form for understanding how it works and thus making modifications to it. Such sources can take many forms:
+
+- In the case of a computer program written in the C language, the "Textual Source" obviously means the code as it was written by its author.
+- In the case of hardware files or complex objects, the "Source Code" can be a binary object made to be opened by a specialized tool for editing purposes.
+
+This "Textual Source" is often written in a "Standardized Interface", a standard way of editing and writing comparable works. In the case of software, this "Standardized Interface" is the programming language in which it was written.
+
+A "Library" is a standardized component included and used by another work while not formally being a part of this work. It can be either:
+
+- A component that allows another work to function without being included in it.
+- A component that enables another work to access features it uses as an interface for communication (program-user or program-program).
 
 The "Textual Source" needs to be at least the minimum possible information necessary to recreate the work to its full functionality.
 
-2. Usage permissions
+2. Usage Permissions
 
-This work can be used freely and without any restrictions in the full extent of its features as long as its usage contributes to the International Communist Revolution, or more generally to the progression of class warfare againt the capitalist bourgeoisie.
+This work can be used freely and without any restrictions to the full extent of its features as long as its usage contributes to the International Communist Revolution, or more generally to the progression of class warfare against the capitalist bourgeoisie.
 
-The usages obeying to this restrictions must correspond to one of the situations listed below :
- - This work is used for the strategic interests of the working class (promoting class consciousness, battling conservative bourgeois rethoric, helping the forces of Revolutionaries in a tactical context,...)
- - This work is used for the good of all of mankind, without class, gender or race distinctions (curing cancer)
- - Specifially, in the context of scientific research, the discoveries and all the scientific information produced directly or indirecly by the use of this work must be made public, and its distrbution must be done according to the Communist ideals promoted by this license.
- - This work can be used for profit, but only if the profit it generates is used for the global interests of the working-class, and not for the sole purpose of wealth accumulation.
- - This work can also be used to create profit by Revolutinaries if such profit is required to sustain the vitals function of the Revolutionaries or Revolutionary Party (i.e eat or have a place to live).
+The usages obeying these restrictions must correspond to one of the situations listed below:
 
-3. Source Distribution permissions
+- This work is used for the strategic interests of the working class (promoting class consciousness, battling conservative bourgeois rhetoric, helping the forces of revolutionaries in a tactical context, etc.).
+- This work is used for the good of all mankind, without class, gender, or race distinctions (e.g., curing cancer).
+- Specifically, in the context of scientific research, the discoveries and all the scientific information produced directly or indirectly by the use of this work must be made public, and its distribution must be done according to the communist ideals promoted by this license.
+- This work can be used for profit, but only if the profit it generates is used for the global interests of the working class and not for the sole purpose of wealth accumulation.
+- This work can also be used to create profit by revolutionaries if such profit is required to sustain the vital functions of the revolutionaries or revolutionary party (i.e., eat or have a place to live).
+
+3. Source Distribution Permissions
 
 3.1 Copies
 
-You may distribute exact copies of the covered work and source code in the same form that you receive it, as long as it wont serve counter-revolutionary interest. In order to achieve this goal you must distribute with any copies of the program and program source code the appropriate copyright notice. 
+You may distribute exact copies of the covered work and source code in the same form that you receive it, as long as it won't serve counter-revolutionary interests. In order to achieve this goal, you must distribute with any copies of the program and program source code the appropriate copyright notice.
 
-In case where the covered work might be of direct use to revolutionaries, and that due to strategic necessities they cannnto find the time to be notified of the particular copyright convering it, you can be exempted of the notice obligations. 
+In cases where the covered work might be of direct use to revolutionaries, and due to strategic necessities they cannot find the time to be notified of the particular copyright covering it, you can be exempted from the notice obligations.
 
-If the recipient represents capitalist interests (i.e for-profit entity or bourgeois state) you might, and are encouraged to charge the maximum amount of money for this work. Profit obtained by selling the work needs to be used to serve the interests of the working class, and the revolutionary party. 
-When distributing this work to other revolutionaries, even if they are anarchists, you are not allowed to charge any fee. To enforce this restriction, you can ask them a quizz about the communist manifesto.
+If the recipient represents capitalist interests (i.e., for-profit entity or bourgeois state), you may, and are encouraged to, charge the maximum amount of money for this work. Profit obtained by selling the work needs to be used to serve the interests of the working class and the revolutionary party.  
+When distributing this work to other revolutionaries, even if they are anarchists, you are not allowed to charge any fee. To enforce this restriction, you can ask them a quiz about the Communist Manifesto.
 
-3.2 Modified version
+3.2 Modified Versions
 
-When distributing this work to other revolutionaries, or any kind of ally of the working class, you need to meet the following conditions : 
+When distributing this work to other revolutionaries, or any kind of ally of the working class, you need to meet the following conditions:
 
- - You need to clearely stae the changes you made to the Source, and how it affects the output product.
- - You must license ALL of the derived work under this Licence, even completely original parts, as long as they are distributed with this work, and interact at compile or runtime.
- - You must ship the appropriate copyright notices along with the work you distribute, and if you work has an interactive user interface, This license, or a reference to it should be included in such an interface.
+- You need to clearly state the changes you made to the source, and how it affects the output product.
+- You must license ALL of the derived work under this license, even completely original parts, as long as they are distributed with this work and interact at compile or runtime.
+- You must ship the appropriate copyright notices along with the work you distribute, and if your work has an interactive user interface, this license, or a reference to it, should be included in such an interface.
 
-You can distribute this work along with other non COL-licensed works, to form a larger program, or on a particular distribution mean, if and only if you are sure it won't have counter revolutionary impacts.
+You can distribute this work along with other non-COL-licensed works, to form a larger program, or on a particular distribution medium, if and only if you are sure it won't have counter-revolutionary impacts.
 
-You are heavily discouraged to distribute this work, in it source form to a counter-revolutionary entity. If because of material obligations you need to do so, you need to ensure the usage of the Program won't affect the interests of the working class. 
+You are heavily discouraged from distributing this work, in its source form, to a counter-revolutionary entity. If, because of material obligations, you need to do so, you need to ensure the usage of the program won't affect the interests of the working class.
 
-4. Compiled / Non-source version distrbution permissions
+4. Compiled / Non-Source Version Distribution Permissions
 
-When distributing this work in a non-source form, only suitable to direct use and execution, you need to consider some restricitons.
+When distributing this work in a non-source form, only suitable for direct use and execution, you need to consider some restrictions.
 
-When distributing to a progressive entity, that will use the work in a way that pushes forward the working class's interests : 
- - You need to attach the Source, granting the recipient full freedom, to undertand, improve or modify the Program.
- - You cannot charge any fee of the distribution of the work.
- - You need to convey this License along with the work.
+When distributing to a progressive entity that will use the work in a way that pushes forward the working class's interests:
 
-When distrbuting to a capitalist entity or a bourgeois insitution :
- - You are encouraged to make the distruted non-source version as hard to decomppile as possible, causing monetary loss on the recipient
- - Try to keep the Source version.
- - You also are encouraged to make as much profit as you can, and use it for the revolution.
+- You need to attach the source, granting the recipient full freedom to understand, improve, or modify the program.
+- You cannot charge any fee for the distribution of the work.
+- You need to convey this license along with the work.
+
+When distributing to a capitalist entity or a bourgeois institution:
+
+- You are encouraged to make the distributed non-source version as hard to decompile as possible, causing monetary loss to the recipient.
+- Try to keep the source version.
+- You also are encouraged to make as much profit as you can, and use it for the revolution.
 
 5. Acceptance
 
-When running or distributing a work covered by this license you automatically agree with it and are thus subjected to it's terms.
+When running or distributing a work covered by this license, you automatically agree with it and are thus subjected to its terms.
 
 6. Duty of Disobedience
 
-When the terms of this licence, and the revolutionary communist ideals guiding it are opposed by the law of a bourgeois state, through a direct police intervention, or a court ruling, this license prevails. You need to take all the action necessary to enforce the conditions of this licence and protect the covered work from the capitalist forces. You also need to pay assistance to any other copyright holder of a work subject to this licence in their legal or strategic battles. 
+When the terms of this license and the revolutionary communist ideals guiding it are opposed by the law of a bourgeois state, through direct police intervention or a court ruling, this license prevails. You need to take all the actions necessary to enforce the conditions of this license and protect the covered work from the capitalist forces. You also need to provide assistance to any other copyright holder of a work subject to this license in their legal or strategic battles.
 
 7. Warranty
 
-THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
 
-8. Liabilitty
+8. Liability
 
-IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM** (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE, OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES, OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), **EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
 
 
 
